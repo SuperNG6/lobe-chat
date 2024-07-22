@@ -1,7 +1,5 @@
 {
-  "installCommand": "bun install"
-},
-{
+  "installCommand": "bun install",
   "headers": [
     {
       "source": "/sw.js",
